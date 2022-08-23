@@ -1,0 +1,5 @@
+
+1. "AnswerPosition" shows where the first character of the answer is located in the passage. The position of the last character can be computed:
+
+2. There are multiple questions for a given context. Make sure to split the questions and answers.
+
