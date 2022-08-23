@@ -1,0 +1,15 @@
+conf 13
+wind = True
+start state = [[3 6]]
+p = 1.0
+strategy = e_greedy
+
+opt_alpha = 0.6000000000000001
+opt_gamma = 0.7000000000000001
+opt_epsilon = 0.01
+
+convergence: 
+rewards = -100.0
+steps = 100.0
+
+evaluation: -6.07

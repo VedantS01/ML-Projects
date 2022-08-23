@@ -1,0 +1,11 @@
+conf 14
+wind = True
+start state = [[3 6]]
+p = 1.0
+strategy = e_greedy
+
+opt_alpha = 0.2
+opt_gamma = 0.9
+opt_epsilon = 1.0
+
+convergence: 
